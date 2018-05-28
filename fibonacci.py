@@ -30,3 +30,4 @@ print(isPalin('eve'))
 # indent
 # chinese charactor in python2
 # chinese colon and english colon
+# the name itself is a bug
